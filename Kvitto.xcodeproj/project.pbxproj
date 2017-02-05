@@ -557,7 +557,7 @@
 				TargetAttributes = {
 					A70247881BC5763D0070DACA = {
 						CreatedOnToolsVersion = 7.0;
-						DevelopmentTeam = Z7L2YCUH45;
+						DevelopmentTeam = VU982Z3CR8;
 						ProvisioningStyle = Automatic;
 					};
 					A795445B1BC3FC1600EC73B1 = {
@@ -982,7 +982,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = Z7L2YCUH45;
+				DEVELOPMENT_TEAM = VU982Z3CR8;
 				INFOPLIST_FILE = Demo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Cocoanetics.Kvitto-Demo";
@@ -998,7 +998,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = Z7L2YCUH45;
+				DEVELOPMENT_TEAM = VU982Z3CR8;
 				INFOPLIST_FILE = Demo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Cocoanetics.Kvitto-Demo";
@@ -1014,7 +1014,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = Z7L2YCUH45;
+				DEVELOPMENT_TEAM = VU982Z3CR8;
 				INFOPLIST_FILE = Demo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Cocoanetics.Kvitto-Demo";
